@@ -1,4 +1,4 @@
-### ✨Hello, World!I'm Baratov Muzrob,a junior web developer.
+### ✨ Hello, World! I'm Baratov Muzrob, a junior web developer.
 
 - 🌱 I’m currently learning Python;
 - ⚡ Hobby: Football,chess,listening to music. 
