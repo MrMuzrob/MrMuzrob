@@ -1,6 +1,7 @@
-### Hi there 👋
-fdjh
+### ✨Hello, World!I'm Baratov Muzrob,a junior web developer.
 
+- 🌱 I’m currently learning Python;
+- ⚡ Hobby: Football,chess,listening to music. 
 <!--
 **MrMuzrob/MrMuzrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
