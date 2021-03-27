@@ -1,5 +1,4 @@
 ### ✨ Hello, World! I'm Baratov Muzrob, a junior web developer.
-- Aware of Linux(Ubuntu);
 - 🌱 I’m currently learning Python;
 - ⚡ Hobby: Football,chess,listening to music. 
 <!--
