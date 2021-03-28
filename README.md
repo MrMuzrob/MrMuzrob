@@ -1,7 +1,7 @@
 ### ✨ Hello, World! I'm Baratov Muzrob, a junior web developer.
-- 🌱 I’m currently learning Python;
+- 🌱 I’m currently learning Python & Django;
+- 🌱 I have a basic knowledge in JavaScript;
 - 📫 How to reach me: t.me/Mr_Muzrob;
-- 🌱 I have a basic knowledge in JavaScript
 - ⚡ Hobby: Football,chess,listening to music. 
 <!--
 **MrMuzrob/MrMuzrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
