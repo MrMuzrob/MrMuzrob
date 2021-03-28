@@ -1,4 +1,4 @@
-### ✨ Hello, World! I'm Baratov Muzrob, a junior web developer.
+### ✨ Hello, World! I'm Baratov Muzrob, a backend developer.
 - 🌱 I’m currently learning Python & Django;
 - 🌱 I have a basic knowledge in JavaScript;
 - 📫 How to reach me: t.me/Mr_Muzrob;
