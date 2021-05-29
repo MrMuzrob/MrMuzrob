@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python & Django;
 - 🌱 I have a basic knowledge in JavaScript;
 - 📫 How to reach me: t.me/Mr_Muzrob;
-- ⚡ Hobby: Football,chess,listening to music. 
+- ⚡ Hobby: Football, chess,listening to music. 
 <!--
 **MrMuzrob/MrMuzrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
