@@ -1,6 +1,7 @@
 ### ✨ Hello, World! I'm Baratov Muzrob, a backend developer.
-- 🌱 I’m currently learning Python & Django;
-- 🌱 I have a basic knowledge in JavaScript;
+- 🔭 I’m currently working on projects with the help of Django & Django Rest Framework;
+- 🌱 I've learned Python;
+- 🌱 I have a basic knowledge in JavaScript and C programming language;
 - 📫 How to reach me: t.me/Mr_Muzrob;
 - ⚡ Hobby: Football, chess,listening to music. 
 <!--
