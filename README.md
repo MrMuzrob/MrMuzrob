@@ -11,8 +11,8 @@
 <br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: baratovmuzrob@gmail.com<br>
-- ⚡️ Fun fact: I use linux🐧
-- Hobbies: Playing chess and football
+- ⚡️ Fun fact: I use linux🐧<br>
+-     Hobbies: Playing chess and football
 <br>
 <br>
 <hr>
